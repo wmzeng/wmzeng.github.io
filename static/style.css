@@ -61,12 +61,12 @@ body {
 }
 
 #content h3 {
-  margin-top: 2em;
-  font-weight: 500;
+  margin-top: 1.5em;
+  font-weight: 600;
 }
 
 #content b  {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 #content .byline, #content .byline a, #content .note {
