@@ -13,7 +13,7 @@ body {
   margin-top: 30px;
   margin-right: 20px;
   text-align: right;
-  width: 2000px;
+  width: 200px;
   font-family: "Fira Code","FZJZ",monospace;
 }
 
@@ -48,7 +48,7 @@ body {
 #content {
   margin-top: 15px;
   float: left;
-  width: 500px;
+  width: 600px;
 }
 
 #content h1, #content h2, #content h3 {
@@ -57,7 +57,12 @@ body {
 }
 
 #content h2 {
-  margin-top: 1.5em;
+  margin-top: 3em;
+}
+
+#content h3 {
+  margin-top: 2em;
+  font-weight: 500;
 }
 
 #content .byline, #content .byline a, #content .note {
