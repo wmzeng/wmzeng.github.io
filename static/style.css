@@ -48,7 +48,7 @@ body {
 #content {
   margin-top: 15px;
   float: left;
-  width: 600px;
+  width: 500px;
 }
 
 #content h1, #content h2, #content h3 {
@@ -65,7 +65,7 @@ body {
   font-weight: 600;
 }
 
-#content b  {
+#content b {
   font-weight: 600;
 }
 
