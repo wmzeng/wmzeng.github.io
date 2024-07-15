@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "MSYH";
+    font-family: "FZJZ";
     src: url("/static/FZJuZXFJW.TTF");
 }
 
 body {
-  font-family: "Helvetica","FZJuZXFJW";
+  font-family: "Helvetica","FZJZ";
   font-size: 15px;
 }
 
