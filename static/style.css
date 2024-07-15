@@ -65,6 +65,10 @@ body {
   font-weight: 500;
 }
 
+#content b  {
+  font-weight: 500;
+}
+
 #content .byline, #content .byline a, #content .note {
   font-size: 10px;
   color: #aaa;
